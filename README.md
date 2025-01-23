@@ -2,6 +2,8 @@
 
 <!--
 **Ahmadpanu/Ahmadpanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ahmad Panu, born on January 12, 2000, in Rahim Yar Khan, is a promising IT student with a focus on cryptocurrency and business ownership. His dedication to the field has earned him a prestigious award in Networking Security Engineering, marking him as a notable figure in the tech community. Ahmad's innovative approach and entrepreneurial spirit continue to drive his success and influence in the industry.
+
 
 Here are some ideas to get you started:
 
